@@ -1,1 +1,1 @@
-![example workflow](https://github.com/github/docs/actions/workflows/hello.yml/badge.svg)
+[![Actions Status](https://github.com/PavelZ94/python-project-49/actions/workflows/hello.yml/badge.svg)](https://github.com/PavelZ94/hexlet_pytest/actions)

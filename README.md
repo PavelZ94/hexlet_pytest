@@ -1,1 +1,1 @@
-[![Actions Status](https://github.com/PavelZ94/python-project-49/actions/workflows/hello.yml/badge.svg)](https://github.com/PavelZ94/hexlet_pytest/actions)
+[![hello-world](https://github.com/PavelZ94/hexlet_pytest/actions/workflows/hello.yml/badge.svg)](https://github.com/PavelZ94/hexlet_pytest/actions/workflows/hello.yml)
